@@ -1,5 +1,4 @@
-# 🔐 RSA Simulation & Attack Toolkit - Project Chủ đề 3
-
+# 🔐 RSA Simulation & Attack Toolkit - Project Mật mã
 ## 📘 Giới thiệu
 
 Chương trình Python mô phỏng toàn diện quá trình **sinh khóa**, **mã hóa**, **giải mã** bằng RSA, đồng thời tích hợp giao diện để **mô phỏng tấn công** nhằm minh họa các điểm yếu nếu tham số RSA không đủ an toàn.
