@@ -30,10 +30,10 @@ Chương trình Python mô phỏng toàn diện quá trình **sinh khóa**, **m�
 
 ## 📁 Cấu trúc Dự án
 
-├── display.py # GUI chính: sinh khóa, mã hóa, giải mã
-├── src.py # Hàm cốt lõi RSA (modular inverse, Miller-Rabin, etc.)
-├── attack_ui.py # Giao diện mô phỏng tấn công
-├── attack_src.py # Logic của các cuộc tấn công
+├── display.py # GUI chính: sinh khóa, mã hóa, giải mã  
+├── src.py # Hàm cốt lõi RSA (modular inverse, Miller-Rabin, etc.)  
+├── attack_ui.py # Giao diện mô phỏng tấn công  
+├── attack_src.py # Logic của các cuộc tấn công  
 └── README.md # Tài liệu hướng dẫn
 
 
