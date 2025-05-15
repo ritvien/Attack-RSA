@@ -30,7 +30,7 @@ Chương trình Python mô phỏng toàn diện quá trình **sinh khóa**, **m�
 
 ## 📁 Cấu trúc Dự án
 
-├── attack_qs # Folder mô phỏng tất công quadratic_sieve
+├── quadratic_sieve # Folder mô phỏng tất công quadratic_sieve
 ├── display.py # GUI chính: sinh khóa, mã hóa, giải mã  
 ├── src.py # Hàm cốt lõi RSA (modular inverse, Miller-Rabin, etc.)  
 ├── attack_ui.py # Giao diện mô phỏng tấn công  
