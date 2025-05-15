@@ -5,9 +5,9 @@ Công cụ phân tích số nguyên bằng Quadratic Sieve và giải mã RSA.
 ## Cấu trúc thư mục
 
 quadratic_sieve/
-├── quadratic_sieve.py # Logic thuật toán Quadratic Sieve
-├── src.py # Các hàm toán học và mật mã
-├── ui.py # Giao diện người dùng (Tkinter)
+├── quadratic_sieve.py # Logic thuật toán Quadratic Sieve  
+├── src.py # Các hàm toán học và mật mã  
+├── ui.py # Giao diện người dùng (Tkinter)  
 └── README.md # File này
 
 ## Yêu cầu
