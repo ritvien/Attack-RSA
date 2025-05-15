@@ -195,10 +195,8 @@ def encrypt(original_num, public_key):
     """
     e, n = public_key
     if original_num >= n:
-         # Option 1: Raise error (standard practice)
          raise ValueError(f"Plaintext {original_num} is too large for modulus {n}.")
-         # Option 2: Apply modulo (as done in original display.py, but loses info)
-         # original_num = original_num % n
+
     return modular_exponentiation(original_num, e, n)
 
 def decrypt(encoded_num, private_key):
